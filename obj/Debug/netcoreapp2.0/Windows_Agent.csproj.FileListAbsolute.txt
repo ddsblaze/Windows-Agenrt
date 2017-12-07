@@ -1,0 +1,4 @@
+C:\Users\IEUser\Desktop\Agent\Windows_Agent\Windows_Agent\obj\Debug\netcoreapp2.0\Windows_Agent.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\Agent\Windows_Agent\Windows_Agent\obj\Debug\netcoreapp2.0\Windows_Agent.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Desktop\Agent\Windows_Agent\Windows_Agent\obj\Debug\netcoreapp2.0\Windows_Agent.AssemblyInfoInputs.cache
+C:\Users\IEUser\Desktop\Agent\Windows_Agent\Windows_Agent\obj\Debug\netcoreapp2.0\Windows_Agent.AssemblyInfo.cs

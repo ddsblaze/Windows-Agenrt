@@ -1,0 +1,8 @@
+C:\Users\IEUser\Desktop\Agent\Windows_Agent\Windows_Agent\obj\Debug\net461\Windows_Agent.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Desktop\Agent\Windows_Agent\Windows_Agent\obj\Debug\net461\Windows_Agent.AssemblyInfoInputs.cache
+C:\Users\IEUser\Desktop\Agent\Windows_Agent\Windows_Agent\obj\Debug\net461\Windows_Agent.AssemblyInfo.cs
+C:\Users\IEUser\Desktop\Agent\Windows_Agent\Windows_Agent\bin\Debug\net461\Windows_Agent.exe
+C:\Users\IEUser\Desktop\Agent\Windows_Agent\Windows_Agent\bin\Debug\net461\Windows_Agent.pdb
+C:\Users\IEUser\Desktop\Agent\Windows_Agent\Windows_Agent\obj\Debug\net461\Windows_Agent.exe
+C:\Users\IEUser\Desktop\Agent\Windows_Agent\Windows_Agent\obj\Debug\net461\Windows_Agent.pdb
+C:\Users\IEUser\Desktop\Agent\Windows_Agent\Windows_Agent\obj\Debug\net461\Windows_Agent.csprojResolveAssemblyReference.cache
